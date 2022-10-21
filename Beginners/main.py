@@ -1,5 +1,6 @@
 ##################
 ## Odd v/s Even ##
+#Adding a random comment - SB
 ##################
 # number = int(input("Enter number : "))
 # if number % 2 == 0:
